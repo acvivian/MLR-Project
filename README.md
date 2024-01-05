@@ -1,4 +1,4 @@
-Fitting multiple linear regression models for BMI from 2010 to 2018. 
+Fitting multiple linear regression models to analyze the LBS from the HRS Data; Checking for associations between variables and BMI from 2010 to 2018. 
 - The steps followed include:
 - Data preprocessing: Transformation for skewness, Handling missing values using Multiple Imputation by Chained Equations (MICE)
 - Fitting multiple linear regression models for each BMI year using predictor variables like age, lifestyle factors (Lsat) etc.
